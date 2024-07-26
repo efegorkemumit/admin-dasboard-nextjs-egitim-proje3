@@ -15,3 +15,8 @@
 
 - 00:00 Liste
 - 00:22 PocketBase ile Register İşlemi 
+
+## Next.js Dersleri 19. Gün | Admin Dashboard Proje 3 | PocketBase ile Update, Delete, Select İşlemleri
+
+- 00:00 Liste
+- 00:22 PocketBase Update, Delete, Select İşlemleri
