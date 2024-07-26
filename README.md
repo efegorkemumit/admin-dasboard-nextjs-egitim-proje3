@@ -7,7 +7,11 @@
 
 ## Next.js Dersleri 17. Gün | Admin Dashboard Proje 3 | PocketBase ile Register İşlemi
 
+- 00:00 Liste
+- 00:22 PocketBase ile Register İşlemi 
 
+
+## Next.js Dersleri 18. Gün | Admin Dashboard Proje 3 | PocketBase ile Login İşlemi ve Kullanıcı Detayları
 
 - 00:00 Liste
 - 00:22 PocketBase ile Register İşlemi 
